@@ -1,1 +1,41 @@
 # Basic-Portfolio
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+
+    <meta charset="UTF-8">
+    <title>About Me</title>
+    <link rel="styesheet" type="text/css" href="style.css">
+
+    </head>
+
+<body>
+
+    <header>
+        <h1>David Walters</h1>
+
+    </header>
+
+    <div class="topnav">
+        <a href="#About">About</a> |
+        <a href="#Portfolio">Portfolio</a> |
+        <a href="Contact">Contact</a>
+    </div>
+
+    <section id="About Me">
+        <h1>About Me</h1>
+
+        <img src="0193764.jpg" alt="David Walters">
+
+        <p>Hello! Thank you for visiting my first web page! Here you will find very fascinating details about me. I am so interesting and fascinating that I do deserve my own web page all about me. I have so many people asking about how I became so great that I decided to go viral and share my secrets with all. Enjoy!</p>
+        <p>Becoming me has been no easy task. It has taken hard work and persistence to get to where I am now. If you want to become like me you will need this along your journey</p>
+        <p>Well let's not waste any more precious time and get started. Here you will find a wealth of advice, guidance, and strategies to help you become just like me and guarantee you a life of success and happiness.</p>
+    </section>
+        
+    <footer>
+        <p>copyright &copy</p>
+    </footer>
+
+    </body>
+</html>
